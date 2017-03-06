@@ -1,0 +1,19 @@
+{
+  "name": "d3test",
+  "version": "1.0.0",
+  "description": "nothing much",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonBee/d3test.git"
+  },
+  "author": "Simon Bee <simon.t.bee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimonBee/d3test/issues"
+  },
+  "homepage": "https://github.com/SimonBee/d3test#readme"
+}
